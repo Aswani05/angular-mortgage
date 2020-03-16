@@ -1,0 +1,34 @@
+.left-title{
+  font-size: 15px;
+  font-weight: 500;
+  color:black;
+}
+.result{
+  font-size: 16px;
+  font-weight: 600;
+}
+h5,h6{
+  color: green;
+}
+.active{
+  background-color: goldenrod;
+}
+
+h1{
+  font-size: 35px;
+  color: black;
+}
+@media only screen and (max-width: 768px) {
+  h1{
+      font-size: 15px;
+      color: gray;
+  }
+
+}
+@media only screen and (min-width: 992px) {
+  h1{
+      font-size: 35px;
+      margin-bottom: -20px;
+  }
+}
+
